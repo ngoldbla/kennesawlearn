@@ -10,6 +10,7 @@ Read the German words and translate each to English aloud.
 | aus (+ dative)                                     | out of, from (origin)                                                   |
 | außer (+ dative)                                   | besides, except for                                                     |
 | bei // arbeiten bei (+ dative)                     | near; in the case of; for: // to work for                               |
+| betreffen \[betrifft \| betraf \| betroffen]       | to concern, affect                                                      |
 | dir                                                | you (dative; familar: sing.)                                            |
 | führen \[führte \| geführt]                        | to lead; to guide                                                       |
 | die Gegend \[die Gegenden]                         | area, region                                                            |
