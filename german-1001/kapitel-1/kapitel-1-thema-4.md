@@ -8,6 +8,7 @@ Read the German words and translate each to English aloud.
 | --------------------------------- | ------------ |
 | der Abend \[die Abende]           | the evening  |
 | (der) Dienstag                    | Tuesday      |
+| genug                             | enough       |
 | heute                             | today        |
 | die Minute \[die Minuten]         | the minute   |
 | (der) Mittwoch                    | Wednesday    |
